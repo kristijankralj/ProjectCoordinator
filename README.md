@@ -1,3 +1,3 @@
 # ProjectCoordinator
 
-A description of this package.
+This package contains Coordinator pattern starter kit.
